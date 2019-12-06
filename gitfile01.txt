@@ -1,2 +1,2 @@
 gitfile0001
-master only
+master & sub
